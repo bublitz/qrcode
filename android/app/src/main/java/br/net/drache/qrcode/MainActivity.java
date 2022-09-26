@@ -1,4 +1,4 @@
-package com.qrcode;
+package br.net.drache.qrcode;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
